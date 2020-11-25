@@ -1,0 +1,52 @@
+
+html{
+ widows: 1950px;
+ margin:15px;   
+ background-image:url("image/libra-zodiac-sign-abstract-night-sky-background-royalty-free-image-1568910403.jpg") ;
+ background-size: cover;
+    overflow: auto;
+}
+body {
+    width: 1750px;
+    margin: 0px;
+    padding-left: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(151, 217, 255);
+    font-weight: bold;
+    font-size: 25px;
+    font-style:italic;
+    text-shadow: 2px 2px rgb(28, 28, 165);
+    scroll-behavior: smooth;
+    
+    }
+    .horoscope{
+       text-align: right; 
+       border: 2px solid;
+       padding: 20px;
+    
+    }
+    
+    h1,h3 {    
+        margin-top: 100px;
+        font-size: larger;
+        text-align: left;
+        text-decoration: underline;
+        text-transform: uppercase;
+}
+   h2{
+       margin-top: 120px;
+       margin-bottom: 30px;
+       text-align: left;
+       text-decoration: underline;
+   }
+li{
+    color: rgb(191, 221, 248);
+    display:inline;
+    text-align:left;
+}
+
+header,title,footer{
+    border-radius: 15%;
+    }
+
+
