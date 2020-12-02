@@ -39,7 +39,7 @@ body {
        text-align: left;
        text-decoration: underline;
    }
-   li{
+   li,header{
     color: rgb(191, 221, 248);
     display:inline;
     text-align:left;
@@ -48,5 +48,16 @@ body {
 header,title,footer{
     border-radius: 15%;
     }
+ul{
+    display: inline;
+}
+.h1{
+    display: inline;
+    margin-right: 30px;
+}
+a{
+    color: rgb(191, 221, 248);
+    text-decoration: none;
+    padding-left: 5px;
 
-
+}
