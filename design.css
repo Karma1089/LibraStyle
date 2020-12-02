@@ -59,5 +59,10 @@ a{
     color: rgb(191, 221, 248);
     text-decoration: none;
     padding-left: 5px;
+    
 
+}
+table,td{
+    margin-right: 15px;
+    padding-left: 25px;
 }
