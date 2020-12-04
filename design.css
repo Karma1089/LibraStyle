@@ -4,6 +4,8 @@ html{
  margin:15px;   
  background-image:url("image/libra-zodiac-sign-abstract-night-sky-background-royalty-free-image-1568910403.jpg") ;
  background-size: cover;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
     overflow: auto;
 }
 body {
@@ -53,7 +55,7 @@ ul{
 }
 .h1{
     display: inline;
-    margin-right: 30px;
+    margin-right: 200px;
 }
 a{
     color: rgb(191, 221, 248);
@@ -65,4 +67,8 @@ a{
 table,td{
     margin-right: 15px;
     padding-left: 25px;
+    border-width: 5px 2px 2px 2px;
+    border-color: rgb(9, 12, 187);
+    text-align: center;
+    border-style: groove;
 }
