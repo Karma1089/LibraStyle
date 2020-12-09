@@ -52,6 +52,7 @@ header,title,footer{
     }
 ul{
     display: inline;
+    padding: 450px;
 }
 .h1{
     display: inline;
@@ -71,4 +72,11 @@ table,td{
     border-color: rgb(9, 12, 187);
     text-align: center;
     border-style: groove;
+}
+img{
+    padding-left: 200px;
+    width: 650px;
+    height: 500px;
+    margin-top: 200px;
+    margin-left: 0px;
 }
